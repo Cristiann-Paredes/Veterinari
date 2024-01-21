@@ -113,6 +113,7 @@ LISTAR
 DETALLE
 
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/5434fd7e-573a-4b03-8d7b-a3c6b3d50795)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/151ee86e-30aa-4abb-91ff-861da218d9c2)
 
 
 
