@@ -121,5 +121,10 @@ ACTUALIZAR PACIENTE
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/7f7281ba-3d50-40d6-ac3d-e7310f88dc03)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/d9c3c8ca-18e4-4008-bb67-8a99bda276d1)
 
+ELIMINAR
+
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/8802cc90-a4dc-4f05-b4bb-e4979acf94c4)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/77eb8239-463f-4c1f-b998-1612c4d70d18)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/be32d42f-6928-4bf4-ab2a-4d4a3e480bf3)
 
 
