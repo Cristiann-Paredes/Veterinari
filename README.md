@@ -127,4 +127,13 @@ ELIMINAR
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/77eb8239-463f-4c1f-b998-1612c4d70d18)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/be32d42f-6928-4bf4-ab2a-4d4a3e480bf3)
 
+LOGIN
+
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/319ecb72-f249-4acb-8907-0f1341074453)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/d4a28163-f54a-44bf-a01c-52a0ab42577c)
+
+PERFIL
+
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/e4a58816-7de2-4a31-bf01-eaccddf4c2f3)
+
 
