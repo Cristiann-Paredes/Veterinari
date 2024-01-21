@@ -1,9 +1,11 @@
 ## SPRINT 0
 
 CREACION DEL ENTORNO DE DESARROLLO
+
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/1e72938f-57ea-47e6-83f7-36699b5487fe)
 
 SERVIDOR WEB Y CONFIGURACIONES 
+
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/5a23c429-b133-4725-b773-03995e8a3e47)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/b56772f4-6f02-4a50-b1b5-2b615d85f9a8)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/558b11bd-86db-48c2-81c9-2dc43587a6ee)
