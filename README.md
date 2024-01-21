@@ -110,10 +110,16 @@ LISTAR
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/353fb391-f64e-4797-a6a6-3565f425650c)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/730e76d7-0d04-477c-890d-bdee48021cff)
 
-DETALLE
+DETALLE 
 
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/5434fd7e-573a-4b03-8d7b-a3c6b3d50795)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/151ee86e-30aa-4abb-91ff-861da218d9c2)
+
+ACTUALIZAR PACIENTE
+
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/ea9e44c6-2795-48da-b0d3-5e468cd1ed16)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/7f7281ba-3d50-40d6-ac3d-e7310f88dc03)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/d9c3c8ca-18e4-4008-bb67-8a99bda276d1)
 
 
 
