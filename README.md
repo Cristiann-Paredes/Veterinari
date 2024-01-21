@@ -31,10 +31,14 @@ CONTROLADOR
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/6d9dee75-4d3b-4f47-8ae6-c69e9a25f805)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/f3900879-299b-4b3d-816c-b714958fd4ad)
 
-REGISTRO Y ENVIO DEL MAILS
+REGISTRO 
 
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/0dd0a4d1-6f5a-4dff-8c3d-e2f7fc2a4be6)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/0f9084ae-2f37-4315-b39f-a24c8c9f989b)
+
+ENVIO DEL MAILS
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/656a3caf-a157-46fe-82ae-ba61992014ba)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/318fcdc7-8d3d-46c0-857e-d772a2020bcd)
 
 
 ## SPRINT 2
