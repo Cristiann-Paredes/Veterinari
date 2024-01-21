@@ -99,6 +99,12 @@ PROTECCION DE RUTAS
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/91acff98-2979-4afe-948c-8431e7238ac1)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/4b99c331-6f02-41eb-97e6-9023578f4b43)
 
+REGISTRO
+
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/8aae511c-9543-4a70-8543-ce6ff134c2ac)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/35f6a983-b33b-435b-b69d-ac1b6cb16b76)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/1e16623c-74ae-4095-af52-c296772cc580)
+
 
 
 
