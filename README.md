@@ -93,6 +93,12 @@ PACIENTES MOLUDO Y RUTAS
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/6b567d02-c972-40b9-8f5f-a0ff847751cb)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/116ab45f-2830-409b-a748-a17118552fbc)
 
+PROTECCION DE RUTAS 
+
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/d8d604d6-0680-498f-bb88-82e52ce5119e)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/91acff98-2979-4afe-948c-8431e7238ac1)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/4b99c331-6f02-41eb-97e6-9023578f4b43)
+
 
 
 
