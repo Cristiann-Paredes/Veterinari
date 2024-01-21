@@ -105,7 +105,14 @@ REGISTRO
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/35f6a983-b33b-435b-b69d-ac1b6cb16b76)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/1e16623c-74ae-4095-af52-c296772cc580)
 
+LISTAR
 
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/353fb391-f64e-4797-a6a6-3565f425650c)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/730e76d7-0d04-477c-890d-bdee48021cff)
+
+DETALLE
+
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/5434fd7e-573a-4b03-8d7b-a3c6b3d50795)
 
 
 
