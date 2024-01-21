@@ -60,5 +60,11 @@ RECUPERACION DE CONTRASEÑA
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/729eea5b-a414-4a4f-878c-f6bf976d6f36)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/2d1cbe79-d525-422c-8085-73349dcc9efe)
 
+RUTAS
+
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/eae36cfc-6dd7-416e-b8aa-2bf601f2d831)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/f95bc9a6-ff74-4778-a500-fcab133c63de)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/625195ca-4c89-456c-82b9-84478df315e8)
+
 
 ## SPRINT 2
