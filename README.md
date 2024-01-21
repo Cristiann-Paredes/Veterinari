@@ -85,6 +85,14 @@ VALIDACION DE DATOS
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/aa52e96b-ed35-4529-b550-c6e37efa80e4)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/316da5a5-129a-45bd-9d59-55fac88a08eb)
 
+## SPRINT 2
+
+PACIENTES MOLUDO Y RUTAS
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/99fc040b-7aec-425e-89af-3ac45650f26f)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/6ec1d81b-5c87-4199-8a04-300716ec3b0f)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/6b567d02-c972-40b9-8f5f-a0ff847751cb)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/116ab45f-2830-409b-a748-a17118552fbc)
+
 
 
 
