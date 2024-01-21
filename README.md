@@ -15,5 +15,19 @@ CADENA DE CONEXION
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/e151dc42-f63a-4827-b220-2b95a1090ef4)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/20485b99-a1d9-4010-a0e5-37251bc887fa)
 
-SPRINT 1
-SPRINT 0
+## SPRINT 1
+
+MODULO Y RUTAS
+
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/dd656d0f-2d44-46ea-8793-13f3ee2e055d)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/0c29a0a5-304c-4607-877f-4f88db8a256c)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/44f2f8b9-4986-446f-a3d3-aca9037a7b6c)
+
+CONTROLADOR
+
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/6f53845c-ec01-4df6-a759-92d9c1635285)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/94fa12e3-7343-4f6f-a9a4-4e1f796c179d)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/0f9084ae-2f37-4315-b39f-a24c8c9f989b)
+
+
+## SPRINT 2
