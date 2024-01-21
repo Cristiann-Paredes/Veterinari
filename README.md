@@ -41,5 +41,9 @@ ENVIO DEL MAILS
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/318fcdc7-8d3d-46c0-857e-d772a2020bcd)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/eddd604f-fa9c-4644-9024-9f7fa8dffcb0)
 
+CONFIRMACION DE CUENTA Y LOGIN
+
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/61fd59d2-9cfb-44a3-844c-c1573ab6e9ee)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/19a79a54-95a6-4a62-9795-0809e94cab05)
 
 ## SPRINT 2
