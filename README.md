@@ -27,6 +27,13 @@ CONTROLADOR
 
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/6f53845c-ec01-4df6-a759-92d9c1635285)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/94fa12e3-7343-4f6f-a9a4-4e1f796c179d)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/00795ffc-b3b5-496a-9b7b-c1481173518e)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/6d9dee75-4d3b-4f47-8ae6-c69e9a25f805)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/f3900879-299b-4b3d-816c-b714958fd4ad)
+
+REGISTRO Y ENVIO DEL MAILS
+
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/0dd0a4d1-6f5a-4dff-8c3d-e2f7fc2a4be6)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/0f9084ae-2f37-4315-b39f-a24c8c9f989b)
 
 
