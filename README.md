@@ -80,4 +80,3 @@ ACTUALIZACION DEL PASSWORD
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/a8d1ba47-9401-4e59-b41c-cb1f220877c7)
 
 
-## SPRINT 2
