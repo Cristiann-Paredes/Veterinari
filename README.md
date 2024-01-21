@@ -51,4 +51,10 @@ LOGIN
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/a9d612f4-b160-4f6d-a4da-3f5dbb739331)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/416566cc-0979-4d72-bcd7-158a9e2114d4)
 
+RECUPERACION DE CONTRASEÑA
+
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/62ce9b98-10a4-4a79-82c6-e373d0348c9d)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/2a15de07-6e75-4aeb-bb79-b420020163af)
+
+
 ## SPRINT 2
