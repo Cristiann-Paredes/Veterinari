@@ -67,5 +67,10 @@ RUTAS
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/625195ca-4c89-456c-82b9-84478df315e8)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/b92095bb-fa23-4a4f-bcc9-990415f68a37)
 
+ACTUALIZACION DEL PERFIL 
+
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/7c100a15-02ed-4b7a-bcb3-e22a275521a1)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/48555f7e-4f8c-4cf7-9bfe-8b83af370735)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/3a129285-b3e6-4c69-926a-d1a175717095)
 
 ## SPRINT 2
