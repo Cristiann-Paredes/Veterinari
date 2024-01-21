@@ -73,4 +73,11 @@ ACTUALIZACION DEL PERFIL
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/48555f7e-4f8c-4cf7-9bfe-8b83af370735)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/3a129285-b3e6-4c69-926a-d1a175717095)
 
+ACTUALIZACION DEL PASSWORD
+
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/8d49be42-7288-410a-b426-1127e7fdc721)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/a6ad0d45-9c0e-47b8-bf62-4463754daedc)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/a8d1ba47-9401-4e59-b41c-cb1f220877c7)
+
+
 ## SPRINT 2
