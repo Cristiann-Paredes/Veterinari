@@ -39,6 +39,7 @@ REGISTRO
 ENVIO DEL MAILS
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/656a3caf-a157-46fe-82ae-ba61992014ba)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/318fcdc7-8d3d-46c0-857e-d772a2020bcd)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/eddd604f-fa9c-4644-9024-9f7fa8dffcb0)
 
 
 ## SPRINT 2
