@@ -79,4 +79,13 @@ ACTUALIZACION DEL PASSWORD
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/a6ad0d45-9c0e-47b8-bf62-4463754daedc)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/a8d1ba47-9401-4e59-b41c-cb1f220877c7)
 
+VALIDACION DE DATOS
+
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/03cc2c30-aa62-477a-a4d8-6cfdf07922c0)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/aa52e96b-ed35-4529-b550-c6e37efa80e4)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/316da5a5-129a-45bd-9d59-55fac88a08eb)
+
+
+
+
 
