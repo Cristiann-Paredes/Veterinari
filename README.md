@@ -137,4 +137,27 @@ PERFIL
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/e4a58816-7de2-4a31-bf01-eaccddf4c2f3)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/beaf4878-76dc-44ac-be34-8fe522e3b222)
 
+## SPRINT 3
+
+MODULO TRATAMIENTO
+
+MODULO Y RUTAS 
+
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/45922c3e-f58f-4cf9-8f5d-e8c97025bfac)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/e4762436-dbec-4358-948c-5e6a686b103a)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/eab63e22-907f-41a1-844d-66298bccc081)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/5a5a27b8-1553-4cdd-922c-6a7efe1a806d)
+
+CONTROLADOR
+
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/00599323-982a-4270-9fe4-d1dcc3fc682b)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/01331f8d-221f-4566-8264-fc89e98c9edb)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/08e267d7-3181-476a-9bd3-39b562c54b0c)
+
+
+
+
+
+
+
 
