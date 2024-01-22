@@ -161,7 +161,13 @@ PROTECCION DE RUTAS Y CREAR REGISTRO
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/4a195200-ca28-4a0f-b79b-de12e51a5945)
 
 
+DETALLE
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/29f048a8-99c2-40f4-856a-7cc946463c0d)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/0a6782f7-6659-414c-9aad-9edd2b225371)
 
+ACTUALIZAR
+
+MAÑANA
 
 
 
