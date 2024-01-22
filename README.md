@@ -151,10 +151,14 @@ MODULO Y RUTAS
 CONTROLADOR
 
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/00599323-982a-4270-9fe4-d1dcc3fc682b)
-![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/01331f8d-221f-4566-8264-fc89e98c9edb)
 ![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/08e267d7-3181-476a-9bd3-39b562c54b0c)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/0f6df1d8-5557-46cf-9d6f-409ad44b8ceb)
 
+PROTECCION DE RUTAS Y CREAR REGISTRO
 
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/b2c03d90-467e-4878-85ed-08b6967c201e)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/e26621fd-0ec1-451f-aee8-ecb801da51e7)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/4a195200-ca28-4a0f-b79b-de12e51a5945)
 
 
 
