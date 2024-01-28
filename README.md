@@ -167,7 +167,29 @@ DETALLE
 
 ACTUALIZAR
 
-MAÑANA
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/d3dd529a-5b1f-4ff9-9d5e-b1323f6c3de1)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/22af58e2-63b1-48dd-992d-067783083994)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/8fe994e3-e4a5-496c-87f9-e4b9750ea811)
+
+ELIMINAR
+
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/df7e5924-8066-4b23-aaa6-3b74f3c279ea)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/cb81c337-7c73-4cfe-b9c8-822f4534c1e0)
+
+CAMBIAR ESTADO
+
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/6bbf5e44-ab46-4e8d-ba5b-8d3feafed118)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/55a52cc3-8cbe-4b2c-a4c7-fda2e353c0e7)
+
+DETALLE-PACIENTES
+
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/16c927df-0728-48de-adc7-df25dd5e8779)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/d7ca067a-61ba-4038-8956-f9eb986e9445)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/96c27741-2594-4bd2-a7c2-a0d1f01b122d)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/93b40577-837d-4174-9bb9-ff6f926ed1bb)
+![image](https://github.com/Cristiann-Paredes/Veterinari/assets/117744113/0fe49669-9b4e-44b7-a860-0664904c2e11)
+
+
 
 
 
